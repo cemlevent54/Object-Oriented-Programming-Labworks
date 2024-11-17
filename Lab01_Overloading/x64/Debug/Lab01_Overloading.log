@@ -1,0 +1,10 @@
+﻿  Lab01_Overloading.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(138,17): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(138,22): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(139,19): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(139,26): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(152,18): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(152,23): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(152,30): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab01_Overloading\Lab01_Overloading.cpp(186,8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab01_Overloading.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\x64\Debug\Lab01_Overloading.exe

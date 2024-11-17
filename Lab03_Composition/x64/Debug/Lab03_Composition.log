@@ -1,0 +1,7 @@
+﻿  Cihaz.cpp
+  Ev.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\Lab03_Composition\Ev.cpp(19,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Lab03_Composition.cpp
+  Oda.cpp
+  Generating Code...
+  Lab03_Composition.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object_Oriented_Programming_Labworks\x64\Debug\Lab03_Composition.exe
