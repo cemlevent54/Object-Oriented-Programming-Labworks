@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDA83C39-ED3B-4508-998C-0599B9FE4744}|Lab05_Polymorphism\\Lab05_Polymorphism.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Lab05_Polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DDA83C39-ED3B-4508-998C-0599B9FE4744}|Lab05_Polymorphism\\Lab05_Polymorphism.vcxproj|solutionrelative:Lab05_Polymorphism\\Lab05_Polymorphism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35A8AAC7-65B0-48AF-93D6-2A621873C53C}|Lab06_Templates\\Lab06_Templates.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\ArrayHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A8AAC7-65B0-48AF-93D6-2A621873C53C}|Lab06_Templates\\Lab06_Templates.vcxproj|solutionrelative:Lab06_Templates\\ArrayHelper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDA83C39-ED3B-4508-998C-0599B9FE4744}|Lab05_Polymorphism\\Lab05_Polymorphism.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DDA83C39-ED3B-4508-998C-0599B9FE4744}|Lab05_Polymorphism\\Lab05_Polymorphism.vcxproj|solutionrelative:Lab05_Polymorphism\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35A8AAC7-65B0-48AF-93D6-2A621873C53C}|Lab06_Templates\\Lab06_Templates.vcxproj|C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\Lab06_Templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A8AAC7-65B0-48AF-93D6-2A621873C53C}|Lab06_Templates\\Lab06_Templates.vcxproj|solutionrelative:Lab06_Templates\\Lab06_Templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lab05_Polymorphism.cpp",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Lab05_Polymorphism.cpp",
-              "RelativeDocumentMoniker": "Lab05_Polymorphism\\Lab05_Polymorphism.cpp",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Lab05_Polymorphism.cpp",
-              "RelativeToolTip": "Lab05_Polymorphism\\Lab05_Polymorphism.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T16:49:33.503Z",
+              "Title": "ArrayHelper.h",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\ArrayHelper.h",
+              "RelativeDocumentMoniker": "Lab06_Templates\\ArrayHelper.h",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\ArrayHelper.h",
+              "RelativeToolTip": "Lab06_Templates\\ArrayHelper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T15:03:48.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Snake.h",
-              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Snake.h",
-              "RelativeDocumentMoniker": "Lab05_Polymorphism\\Snake.h",
-              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab05_Polymorphism\\Snake.h",
-              "RelativeToolTip": "Lab05_Polymorphism\\Snake.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAmwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T16:49:22.998Z",
+              "Title": "Lab06_Templates.cpp",
+              "DocumentMoniker": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\Lab06_Templates.cpp",
+              "RelativeDocumentMoniker": "Lab06_Templates\\Lab06_Templates.cpp",
+              "ToolTip": "C:\\Users\\Cem Levent\\Desktop\\2.S\u0131n\u0131f1.D\u00F6nem\\Nesne_Tabanl\u0131_Programlama_I_Lab\\Object-Oriented-Programming-Labworks\\Lab06_Templates\\Lab06_Templates.cpp",
+              "RelativeToolTip": "Lab06_Templates\\Lab06_Templates.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T15:03:23.452Z",
               "EditorCaption": ""
             }
           ]

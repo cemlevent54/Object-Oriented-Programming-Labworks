@@ -1,0 +1,7 @@
+﻿  Lab06_Templates.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\Lab06_Templates\Lab06_Templates.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\Lab06_Templates\Lab06_Templates.cpp(7,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\Lab06_Templates\Lab06_Templates.cpp(8,19): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\Lab06_Templates\Lab06_Templates.cpp(11,19): warning C4244: '/=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\Lab06_Templates\Lab06_Templates.cpp(11,19): warning C4244: '/=': conversion from 'double' to 'char', possible loss of data
+  Lab06_Templates.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I_Lab\Object-Oriented-Programming-Labworks\x64\Debug\Lab06_Templates.exe
